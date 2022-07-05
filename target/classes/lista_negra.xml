@@ -1,0 +1,18 @@
+<clientes>
+	<cliente>
+		<nome>João Silva</nome>
+		<email>joao@email.com</email>
+	</cliente>
+	<cliente>
+		<nome>Maria Rita</nome>
+		<email>maria@email.com</email>
+	</cliente>
+	<cliente>
+		<nome>Renato Aragão</nome>
+		<email>renato@email.com</email>
+	</cliente>
+	<cliente>
+		<nome>José da Silva</nome>
+		<email>jose@email.com</email>
+	</cliente>
+</clientes>
