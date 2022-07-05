@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 import com.m2leal.factory_method.contato.csv.MalaDiretaCSV;
 import com.m2leal.factory_method.contato.xml.MalaDiretaXML;
-import com.m2leal.factory_method.maladireta.MalaDireta;
+import com.m2leal.factory_method.mala_direta.MalaDireta;
 
 public class RelacionamentoCliente {
 	

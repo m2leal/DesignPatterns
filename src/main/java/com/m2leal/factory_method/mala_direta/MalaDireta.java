@@ -1,4 +1,4 @@
-package com.m2leal.factory_method.maladireta;
+package com.m2leal.factory_method.mala_direta;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
 package com.m2leal.factory_method.contato.csv;
 
 import com.m2leal.factory_method.contato.Contatos;
-import com.m2leal.factory_method.maladireta.MalaDireta;
+import com.m2leal.factory_method.mala_direta.MalaDireta;
 
 public class MalaDiretaCSV extends MalaDireta {
 	
