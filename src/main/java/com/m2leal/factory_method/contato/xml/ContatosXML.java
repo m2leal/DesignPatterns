@@ -18,7 +18,6 @@ public class ContatosXML implements Contatos {
 	@SuppressWarnings("unchecked")
 	@Override
 	public List<Contato> todos() {
-		System.out.println();
 		XStream xstream = new XStream();
 		xstream.alias("contatos", List.class);
 		xstream.alias("contato", Contato.class);
