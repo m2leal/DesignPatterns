@@ -1,0 +1,32 @@
+<list>
+  <contato>
+    <codigo>1</codigo>
+    <nome>João Silva</nome>
+    <telefone>011 99999-9999</telefone>
+  </contato>
+  <contato>
+    <codigo>2</codigo>
+    <nome>Maria Rita</nome>
+    <telefone>021 99999-8888</telefone>
+  </contato>
+  <contato>
+    <codigo>3</codigo>
+    <nome>Renato Aragão</nome>
+    <telefone>041 99999-7777</telefone>
+  </contato>
+  <contato>
+    <codigo>4</codigo>
+    <nome>José da Silva</nome>
+    <telefone>051 99999-6666</telefone>
+  </contato>
+  <contato>
+    <codigo>6</codigo>
+    <nome>Teste</nome>
+    <telefone>999697551</telefone>
+  </contato>
+  <contato>
+    <codigo>7</codigo>
+    <nome>Teste</nome>
+    <telefone>999697551</telefone>
+  </contato>
+</list>
